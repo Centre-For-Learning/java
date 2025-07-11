@@ -21,7 +21,7 @@ const config = {
 
     title: "CFL",
     url: "https://cfl.dev",
-    baseUrl: "/",
+    baseUrl: "/java/",
 
     favicon: "/favicon.ico",
 
