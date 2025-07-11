@@ -70,7 +70,7 @@ const config = {
                 },
                 {
                     label: "Repository",
-                    href: "https://codeberg.org/cfl",
+                    href: "https://codeberg.org/cfl/java",
                 },
             ],
             copyright: attributions,
